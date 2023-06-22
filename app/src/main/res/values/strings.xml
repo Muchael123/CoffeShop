@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coffeShop</string>
+    <string name="mmust_coffee_shop">Comrades Coffee Shop</string>
+    <string name="no_coffee">Number of coffee</string>
+</resources>
